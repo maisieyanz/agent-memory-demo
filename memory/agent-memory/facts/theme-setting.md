@@ -1,5 +1,7 @@
 ---
-description: "Dark theme preference, with the reason behind it"
+description: "User prefers dark mode/theme everywhere, with the reason behind it"
 ---
 
-Theme preference: dark mode. Light themes cause eye strain during long sessions.
+The user prefers dark mode over light mode in all editors, terminals, and browser dev tools.
+
+Reason: light themes cause eye strain during long sessions.
