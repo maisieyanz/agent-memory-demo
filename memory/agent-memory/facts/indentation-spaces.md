@@ -1,5 +1,5 @@
 ---
-description: "Indentation preference: 2 spaces (updated June 2026, supersedes tabs)"
+description: "Indentation preference: 2 spaces (current, since June 2026)"
 ---
 
-User switched to 2-space indentation as of June 2026. All new code uses spaces. .editorconfig and the Prettier config were updated accordingly.
+As of June 2026 the user indents with 2 spaces in all projects, superseding the earlier tabs preference recorded in March 2026. .editorconfig and the Prettier config were updated accordingly to enforce spaces.
